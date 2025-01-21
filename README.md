@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently learning and also looking for jobs
+Transitioning to DevOps and SRE roles with a solid background in software development and hands-on training in cloud engineering at Temasek Polytechnic. Proven ability to enhance system reliability, automate processes, and manage scalable cloud-based environments using modern DevOps tools and practices. Experienced in CI/CD pipelines, container orchestration, system automation, and cloud-native technologies. Adept at problem-solving and improving operational efficiency.
 
 
 ## 🌐 Socials:
